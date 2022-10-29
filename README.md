@@ -149,3 +149,4 @@ npm install --save prism-react-renderer
    props.children.props.className
    className.replace(/language-/,'')
 3. theme
+# resume
