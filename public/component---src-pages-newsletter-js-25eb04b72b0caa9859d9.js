@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[441],{7270:function(e,t,l){"use strict";l.r(t);var r=l(7294);l(1965);t.default=function(){return r.createElement("h4",null,"newsletter")}}}]);
+//# sourceMappingURL=component---src-pages-newsletter-js-25eb04b72b0caa9859d9.js.map
